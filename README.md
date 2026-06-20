@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of the Deloitte Data Analytics Virtual Experience Program.
+This project was completed as part of the Data Analytics Virtual Experience Program.
 
 The objective was to standardize Industrial Internet of Things (IIoT) telemetry data generated in two different JSON formats and convert them into a single unified schema for analytics and reporting.
 
