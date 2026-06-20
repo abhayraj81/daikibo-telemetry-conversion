@@ -1,4 +1,4 @@
-# Deloitte Daikibo Telemetry Data Integration
+# Daikibo Telemetry Data Integration
 
 ## Overview
 
